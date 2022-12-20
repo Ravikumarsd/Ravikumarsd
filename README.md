@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ravikumarsd
-- 👀 I’m interested in developing web applications and mobile apps
+- 👀 I’m interested in developing web applications and mobile apps.(MERN developer)
 - 🌱 I’m currently learning Django and Elastic search
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫  -->
