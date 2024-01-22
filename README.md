@@ -31,7 +31,7 @@ Hello there! 👋 I'm Ravikumar Daivajna, a Senior Software Engineer with 5 year
 - Developed a complex payment system handling a transaction of 8 crores.
 - Integrated Mixpanel analytics and push notifications.
 - Developed bulk order processing system and various UI components.
-- Designed and implemented an order processing system closing 10,000 orders.
+- Designed and implemented an order processing system closing 10,000 orders/month.
 - Managed the release process for IOS/Android/Server.
 - Mentored interns and junior developers.
 
